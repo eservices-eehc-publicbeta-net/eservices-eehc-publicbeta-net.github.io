@@ -1,0 +1,12 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["GY5GDJ28B9.com.fixedSolution.ncedc" ,"DF8RRTTKDY.com.fixedSolution.ncedc"]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": ["GY5GDJ28B9.com.fixedSolution.ncedc" ,"DF8RRTTKDY.com.fixedSolution.ncedc"]
+   }
+}
